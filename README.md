@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning *Python, Docker, Kubernetes, etc.*  
 
-- 👯 I’m looking to collaborate on [ParkSwift](https://github.com/sampathmenuka/ParkSwift)  
+- 👯 I’m looking to collaborate on [QuickBlog](https://github.com/N-Viveharan/myProject-3)  
 
 - 🤝 I’m looking for help with *Loan Approval Prediction System (ML)*  
 
