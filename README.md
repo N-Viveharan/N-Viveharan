@@ -9,7 +9,7 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on [Online Parking Slot Reservation System (ParkSwift)](https://github.com/sampathmenuka/ParkSwift)  
+- 🔭 I’m currently working on [codeflow-ai-susl](https://github.com/CodeFlow-SUSL/codeflow-ai-susl)  
 
 - 🌱 I’m currently learning *Python, Docker, Kubernetes, etc.*  
 
